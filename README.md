@@ -19,3 +19,8 @@ Lien du prototype : https://www.figma.com/proto/iMmPl9sbDp83jWYuO9nCjU/Clipboard
 
 
 ================================================================================================
+
+
+Deux maquettes sont disponibles en pdf. 
+Une première version sans barre de navigation puisqu'il n'y a qu'une seule page. (le client peut décider de ne pas en vouloir)
+Ou seconde option, avec une barre de navigation amenant à différents ancrages sur la page.
