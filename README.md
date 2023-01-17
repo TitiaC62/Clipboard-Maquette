@@ -16,6 +16,8 @@ La start-up s’attend à avoir une visibilité à chaque instant sur votre avan
 
 Lien du prototype : https://www.figma.com/proto/iMmPl9sbDp83jWYuO9nCjU/Clipboard?node-id=9%3A74&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=9%3A74&show-proto-sidebar=1
 
+lien du trello : https://trello.com/invite/b/N0b5AuWW/ATTIdbe6fc4c3893309226016c7af6ff4b0281E67E79/clipboard
+
 
 
 ================================================================================================
@@ -24,3 +26,6 @@ Lien du prototype : https://www.figma.com/proto/iMmPl9sbDp83jWYuO9nCjU/Clipboard
 Deux maquettes sont disponibles en pdf. 
 Une première version sans barre de navigation puisqu'il n'y a qu'une seule page. (le client peut décider de ne pas en vouloir)
 Ou seconde option, avec une barre de navigation amenant à différents ancrages sur la page.
+
+
+=================================================================================================
